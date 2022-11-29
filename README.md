@@ -40,3 +40,10 @@ Tips
 
 - Use the provided tests to ensure your app is running as expected
 - DO NOT ALTER THE PROVIDED TESTS
+
+ -------------------------------------------
+   
+   Group name : Android_Dev
+   Ghaida Alhuthayli
+   Duaa Alyamani
+   Shahad monaji
