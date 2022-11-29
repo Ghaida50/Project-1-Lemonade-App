@@ -44,6 +44,6 @@ Tips
  -------------------------------------------
    
    Group name : Android_Dev:
-   Ghaida Alhuthayli 
-   Duaa Alyamani
+   Ghaida Alhuthayli -
+   Duaa Alyamani -
    Shahad monaji
